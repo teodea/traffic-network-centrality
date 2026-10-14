@@ -1,0 +1,8 @@
+geopandas
+pandas
+numpy
+shapely
+networkx
+matplotlib
+python-louvain
+jupyter

@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Office lock files
+~$*
+
+# Raw FDOT shapefiles (download separately, see README)
+data/aadt_historical/
